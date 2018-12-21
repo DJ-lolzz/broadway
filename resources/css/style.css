@@ -35,6 +35,6 @@ h4{
   color: white;
   background-color: dimgray;
 }
-p{
-  text-align: left;
+.no{
+  text-align: right;
 }
